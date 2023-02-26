@@ -1,17 +1,19 @@
 # wishlist
-[![pipeline status](https://gitlab.com/jckimble/wishlist/badges/master/pipeline.svg)](https://gitlab.com/jckimble/wishlist/commits/master)
+![build status](https://github.com/jckimble/wishlist/actions/workflows/build.yml/badge.svg?branch=master)
 
 wishlist is an cli tool for searching wish.com from the commandline with basic filters
 
 ---
-* [Install](#install)
-* [Usage](#usage)
+- [wishlist](#wishlist)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [License](#license)
 
 ---
 
 ## Install
 ```sh
-go get -u gitlab.com/jckimble/wishlist
+go get -u github.com/jckimble/wishlist
 ```
 
 ## Usage
